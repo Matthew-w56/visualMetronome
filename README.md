@@ -10,3 +10,5 @@ to visually see how the notes fall in with the beats
 The user sets the beat by clicking anywhere in the window on beat as the song plays,
 then pressing the space bar to lock the bpm and begin marking the melody notes.  The 
 spacebar can then be pressed to pause the screen's scroll effect to review the notes
+
+(JAR file in with code)
